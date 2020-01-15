@@ -13,7 +13,7 @@
 <li><a href="bruh.html">Home</a></li>
 <li><a href="">Create</a></li>
 <li><a href="pages.html">Pages</a></li>
-<li><a href="C:\xampp\htdocs\index.html">bruh</a></li>
+<li><a href="ttps://github.com/funy0n/funy0n.github.io">bruh</a></li>
 <li><a href="">bruh</a></li>
 
 </ul>
