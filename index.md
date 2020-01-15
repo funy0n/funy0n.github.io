@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>learning</title>
+<title>learn</title>
 <link rel="stylesheet" href="main.css">
 </head>
 
